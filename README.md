@@ -1,3 +1,5 @@
 # UCD-Software-Engineering
 
-<img src="Library Management System.jpg" height="300rem"/>
+## Library Management System
+
+<img src="Library Management System.jpg" height="500rem"/>
