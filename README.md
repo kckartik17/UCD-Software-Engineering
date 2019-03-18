@@ -10,4 +10,4 @@
 
 ## Shoppig Website
 
-<img src="Shopping.jpg" height="500rem"/>
+<img src="Shoppng.jpg" height="500rem"/>
