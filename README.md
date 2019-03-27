@@ -8,6 +8,10 @@
 
 <img src="Credit Card Processing System.jpg" height="500rem"/>
 
-## Shoppig Website
+## Shopping Website
 
 <img src="Shopping.jpg" height="500rem"/>
+
+## Library Management Class Diagram
+
+<img src="Library Class Diagram.jpg" height="500rem"/>
