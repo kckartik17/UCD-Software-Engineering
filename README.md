@@ -15,3 +15,7 @@
 ## Library Management Class Diagram
 
 <img src="Library Class Diagram.jpg" height="500rem"/>
+
+## Shopping Website Class Diagram
+
+<img src="Shopping Class Diagram.jpg" height="500rem"/>
