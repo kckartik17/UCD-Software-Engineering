@@ -27,3 +27,7 @@
 ## Credit Card Processing System ER Diagram
 
 <img src="Credit Card ER Diagram.gif" height="500rem"/>
+
+## Shopping Website ER Diagram
+
+<img src="Shopping Class ER diagram.png" height="500rem"/>
