@@ -19,3 +19,7 @@
 ## Shopping Website Class Diagram
 
 <img src="Shopping Class Diagram.jpg" height="500rem"/>
+
+## Library Management System ER Diagram
+
+<img src="Library ER Diagram.gif" height="500rem"/>
