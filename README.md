@@ -23,3 +23,7 @@
 ## Library Management System ER Diagram
 
 <img src="Library ER Diagram.gif" height="500rem"/>
+
+## Credit Card Processing System ER Diagram
+
+<img src="Credit Card ER Diagram.gif" height="500rem"/>
