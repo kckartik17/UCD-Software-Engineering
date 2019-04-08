@@ -30,4 +30,4 @@
 
 ## Shopping Website ER Diagram
 
-<img src="Shopping Class ER diagram.png" height="500rem"/>
+<img src="Shopping Website ER diagram.png" height="500rem"/>
